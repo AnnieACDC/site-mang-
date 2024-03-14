@@ -1,0 +1,198 @@
+body{
+    background-color: #04030A;
+padding-top: 0px;
+padding-bottom: 0px;
+padding-right: 104px;
+padding-left: 104px;
+}
+
+
+h1{
+    color: #fafafa;
+    font-family: Roboto serif;
+    font-weight: 700;
+    font-size:64px;
+    white-space: pre-wrap;
+    padding-top:16px;
+   
+}
+h3{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #7A7B90;
+    text-align: justify;
+    padding-right:32px;
+   
+   
+    
+}
+
+
+header{
+    
+    background-color:#04030A;
+    position: fixed;
+    width: 100%;
+    height: 104;
+    padding-left: 104px;
+    border-bottom: solid 1px;
+    border-color: #121212;
+    top: 0;
+    left: 0;
+
+ }
+ footer{
+    background-color:#04030A;
+    width: 100%;
+    height: auto;
+    padding: 24px;
+    text-align: center;
+    border-top: solid 1px;
+    border-color: #121212;
+    clear:both;
+    
+ }
+
+ b{
+        
+    color:#7A7B90;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+  }
+
+ 
+ 
+ 
+ 
+ c{
+    color:#FFFFFF;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+    }
+    .div3 {
+    
+        align-items: center;
+        float:left;
+        padding:24px;
+        margin:12px;
+        margin-top:32px;
+        margin-bottom:24px;
+        width: Fixed (390px);
+        height:fit-content (511px);
+        border-radius: 24px;
+        gap: 24px;
+        background: linear-gradient(153.5deg, rgba(255, 255, 255, 0.05) 1.24%, rgba(255, 255, 255, 0.02) 98.25%);
+        cursor:grab;
+        align-items: center;
+        justify-content: center;
+        
+        }
+
+        h5{
+            font-family: Roboto serif;
+            color: #fafafa;
+            font-size: 24px;
+            font-weight: 600;
+            line-height: 39px;
+            letter-spacing: 0em;
+            margin: 8px;
+            text-align: left;
+            
+        }
+        h6{
+        color:#7A7B90;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: left;
+        width: 342px;
+        height: 52px;
+        margin:8px;
+        margin-bottom:24px;
+        text-align: justify;
+        
+        }
+
+        
+div{
+    gap: 32px;
+  
+}
+
+img{
+    padding-bottom: 32px;
+    padding-top:32px;
+}
+
+
+
+
+
+
+
+
+
+
+
+       
+
+        button{
+           align-items: left;
+            width:  75px;
+            height: 42px;
+            padding: 8px, 16px, 8px, 16px;
+            border-radius: 4px;
+            gap: 8px;
+            cursor:grab;
+            background: #E52E2E;
+            border: #04030A;
+
+        }
+
+       .div4{
+        align-items: center;
+        float:left;
+        padding:24px;
+        margin:12px;
+        margin-top:32px;
+        margin-bottom:24px;
+        width: Fixed (390px);
+        height:fit-content (511px);
+        border-radius: 24px;
+        gap: 24px;
+        background: linear-gradient(153.5deg, rgba(255, 255, 255, 0.05) 1.24%, rgba(255, 255, 255, 0.02) 98.25%);
+        align-items: center;
+        justify-content: center;
+        border:solid 2px;
+        border-color: #7A7B90;
+    
+       }
+
+      .div5{
+        margin-top: 140px;
+        margin-bottom:72px;
+      }
+
+      .div3 img[alt="Imagem especial"]{
+      padding: 8px;
+
+      }
+      .div3:hover{
+    
+        transition: transform 0.3s ease;
+            
+        transform: scale(1.1);
+            }
